@@ -1,1 +1,1 @@
-# Wholesaller
+# wholesaller-frontend
